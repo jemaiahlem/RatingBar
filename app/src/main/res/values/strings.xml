@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rating Bar</string>
+    <string name="rate_me">Rate Me</string>
+    <string name="submit">SUBMIT</string>
+    <string name="message_saving_value">Saving new value</string>
+    <string name="message_getting_value">Getting last value</string>
+</resources>
